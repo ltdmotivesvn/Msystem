@@ -1,2 +1,3 @@
 # Msystem
 M System Discussion 
+We want to make it clear that our application is designed solely for personal use. It is not intended for commercial or business purposes, and should not be used to manage tasks for a team or organization.   Our app is built to help individuals manage their personal schedule and tasks more efficiently, ensuring that they can stay on top of their daily responsibilities and get more done in less time. We take pride in providing our users with a secure and reliable platform to manage their personal tasks, without compromising their privacy or sharing their data with third parties.
